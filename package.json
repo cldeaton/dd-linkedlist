@@ -1,0 +1,15 @@
+{
+  "name": "dd-linkedlist",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dd-linkedlist.js",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watch"
+  },
+  "author": "deaton_dev",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^22.4.3"
+  }
+}
