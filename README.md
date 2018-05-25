@@ -23,17 +23,17 @@ var print = require('linked-list-print');
 
 const c = {
   value: 'c',
-  next: undefined,
+  next: undefined
 }
 
 const b = {
   value: 'b',
-  next: c,
+  next: c
 }
 
 const a = {
   value: 'a',
-  next: b,
+  next: b
 }
 
 
