@@ -1,22 +1,3 @@
-const d = {
-  value: 'd',
-  next: undefined
-}
-
-const c = {
-  value: 'c',
-  next: d
-}
-
-const b = {
-  value: "b",
-  next: c
-}
-
-const a = {
-  value: 'a',
-  next: b
-}
 
 
 function print(obj){
