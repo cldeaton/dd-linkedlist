@@ -1,5 +1,4 @@
 
-
 function print(obj){
   let newArr = [];
   printObj(obj);
