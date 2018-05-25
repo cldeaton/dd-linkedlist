@@ -1,6 +1,6 @@
 {
   "name": "linked-list-print",
-  "version": "1.0.2",
+  "version": "1.0.1",
   "description": "prints linked lists in string form",
   "main": "dd-linkedlist.js",
   "scripts": {
